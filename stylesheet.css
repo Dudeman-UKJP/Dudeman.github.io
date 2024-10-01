@@ -18,6 +18,12 @@
   font-weight: bold;
   color: white;
 }
+.highlight
+{
+  font-weight: bold;
+  color: blue;
+}
+
 #Brushes
 {
   background-color: mediumspringgreen;
